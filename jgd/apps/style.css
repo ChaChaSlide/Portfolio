@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.parallax{
+	background: url(../docs/images/louis-smith-22453.jpg) fixed 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+
+
+}
+.parallax-inner{
+	padding-top: 16%;
+	padding-bottom: 16%;
+}
+nav{
+	position: fixed;
+	background-color: #EF233C; 
+}
+h1{
+	color:white;
+	font-family: 'Elsie Swash Caps', cursive;
+}
+li{
+	color:grey;
+}
+body{
+	background-color: #7B8CDE;
+}
+a{
+	color:white;
+	font-family: 'Elsie Swash Caps', cursive;
+}
